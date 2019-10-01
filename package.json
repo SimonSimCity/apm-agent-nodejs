@@ -118,7 +118,7 @@
     "aws-sdk": "^2.529.0",
     "backport": "^4.7.1",
     "benchmark": "^2.1.4",
-    "bluebird": "^3.5.5",
+    "bluebird": "^3.7.0",
     "cassandra-driver": "^4.1.0",
     "columnify": "^1.5.4",
     "commitlint-config-squash-pr": "^1.0.1",
