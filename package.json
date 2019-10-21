@@ -114,7 +114,7 @@
     "@hapi/hapi": "^18.4.0",
     "@koa/router": "^8.0.1",
     "@types/node": "^12.7.5",
-    "apollo-server-express": "^2.9.3",
+    "apollo-server-express": "^2.9.7",
     "aws-sdk": "^2.529.0",
     "backport": "^4.7.1",
     "benchmark": "^2.1.4",
